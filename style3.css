@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+body{
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.card3{
+    width:500px;
+    margin:150px auto;
+    padding:15px 30px;
+    border-radius:12px;
+    border:1px solid lightgray;
+    background-color: white;
+    
+}
+.logo1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+    
+    
+}
+.text{
+    padding: 2px;
+    
+}
+
+
+.input{
+    
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid rgb(165, 47, 176);
+    font-size: 16px;
+    /* background-image:https://img.icons8.com/?size=80&id=Hn53LPcOJXnv&format=png ; */
+    
+}
+.Industry{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid rgb(165, 47, 176);
+    font-size: 16px;
+}
+.center{
+    text-align:center;
+}
+.footlogo{
+    width: 20px;
+}
+.ft{
+    display: flex;
+    align-items:center;
+    margin: 10px 150px;
+    
+}
